@@ -1,0 +1,14 @@
+Table description:
+ 
+1. Admin table:
+     This table gives information about the administrator of a particular corporation (ex: JinHit Enterprises).
+2. Dev table:
+     This table gives information about various devices managed by the admin and distributed to employees of a particular corporation.
+3. Own table
+      This table gives information about the employees of a particular corporation who are in charge of any devices in the office provided by the administrator .
+4.Rental Table
+      This table gives information about the people(registered)  who are in charge of any devices provided by the administrator on a rent basis.
+5. Home table
+      This table gives information about the of a particular corporation who are in charge of any devices at home provided by the administrator.
+6. Supp table
+      This table gives information about the employees of a particular corporation who are in charge of  supplying devices to the administrator.
